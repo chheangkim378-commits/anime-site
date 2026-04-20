@@ -11,28 +11,28 @@ export default function Home() {
       image: "/posters/swallowed-star.jpg",
       score: "5.5",
       tag: "EP220",
-      link: "/watch",
+      link: "/watch/ep1",
     },
     {
       title: "Dragon Prince Yuan Remake",
       image: "/posters/swallowed-star.jpg",
       score: "10.0",
       tag: "Coming Soon",
-      link: "/watch",
+      link: "/watch/ep2",
     },
     {
       title: "Apotheosis Season 3",
       image: "/posters/swallowed-star.jpg",
       score: "9.0",
       tag: "EP21",
-      link: "/watch",
+      link: "/watch/ep3",
     },
     {
       title: "Changan Martial Bureau",
       image: "/posters/swallowed-star.jpg",
       score: "10.0",
       tag: "Coming Soon",
-      link: "/watch",
+      link: "/watch/ep1",
     },
   ];
 
@@ -115,7 +115,7 @@ export default function Home() {
           </p>
 
           <a
-            href="/watch"
+            href="/watch/ep1"
             style={{
               background: "#2563eb",
               padding: "12px 20px",
